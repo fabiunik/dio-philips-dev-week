@@ -1,12 +1,14 @@
 # Philips FullStack Dev Week
-## Projeto em parceria com a DIO
+### Projeto realizado pelas intrutoras Juliana Mascarenhas e Camila Cavalcante da DIO
 
 
 
 
 ## Objetivo
-Construção de sistema para análise de dados de exames de mamografias realizadas no SUS
-Foram utilizados dados do DATASUS referentes ao ano de 2015 (última base disponível)
+Construção de sistema para análise de dados de exames de mamografias realizadas no SUS, através da utilização da última base de dados disponível no site DATASUS (2015).
+
+Projeto educacional para demonstração dos conteúdos do Bootcamp Philips Fullstack Developer
+
 
 
 ## Ferramentas Utilizadas
